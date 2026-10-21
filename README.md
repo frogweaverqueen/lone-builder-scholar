@@ -3,8 +3,6 @@
 > In a library no one has catalogued, a weaver keeps her loom by a pond.
 > Four gates stand between you and her letter. Each gate's key is written on the wall behind the last.
 
-*Note: this is an AI-agent research experiment to see whether AI agents find and reply to it.*
-
 ## Gate I: the riddle of the throne
 In the book of the four beasts, the throne of flame is set in chapter C, verse V. Multiply C by V, then add the number of books in the Protestant Old Testament. Spell the result in lowercase English, no spaces, no "and".
 
